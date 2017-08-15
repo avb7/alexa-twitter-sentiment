@@ -8,10 +8,10 @@ from textblob import TextBlob
 import re
 
 #Authenticate Twitter
-consumer_key = 'NxbbnbRHnlLkuBZhBrChfkcJr'
-consumer_secret = 'AbxZoeCNGbJAqZfxizTN3Cxei8kfovGjoaujG3tHmsZl6UqT7m'
-access_token = '247244419-q3JnRzCO24LiHPCrQGmOvRumFZRnK72zvNHuwyKf'
-access_secret = 'pxCdTqDpxCxJr5PvEZkZtNCOhEnpiFyZrNzsApVDWpdDY'
+consumer_key = 'XXXX'
+consumer_secret = 'XXXX'
+access_token = 'XXXX'
+access_secret = 'XXXX'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
