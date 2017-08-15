@@ -1,0 +1,7 @@
+welcome: Okay, I will analyse twitter sentiment for a topic. What topic do you want me to search for?
+
+reprompt: Can you repeat that please?
+
+reprompt_topic: Can you repeat the name of the topic please?
+
+sentiment_review: There is a {{ opinion }} word on {{topic}}. {{ positive_percent }} percent positive tweets and {{ negative_percent }} percent negative.
