@@ -1,4 +1,5 @@
-# ask-alexa-public-opinion
+https://i.ibb.co/G9V3LfG/Group.png
+---
 Ask Amazon's Alexa about what the public thinks about a topic. Use the voice interface to ask questions such as "Hey Alexa, what does the public think of 'Donald Trump' at the moment?" 
 
 ## Idea 
